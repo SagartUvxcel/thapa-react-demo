@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thapa-react-demo/static/css/main.33ed33d0.css",
+    "main.js": "/thapa-react-demo/static/js/main.bbbb816e.js",
+    "static/js/787.28cb0dcd.chunk.js": "/thapa-react-demo/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/thapa-react-demo/index.html",
+    "main.33ed33d0.css.map": "/thapa-react-demo/static/css/main.33ed33d0.css.map",
+    "main.bbbb816e.js.map": "/thapa-react-demo/static/js/main.bbbb816e.js.map",
+    "787.28cb0dcd.chunk.js.map": "/thapa-react-demo/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33ed33d0.css",
+    "static/js/main.bbbb816e.js"
+  ]
+}
