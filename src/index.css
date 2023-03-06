@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+}
+
+
+.greetingBox{
+    text-align: center;
+    text-transform: capitalize;
+    display: flex;
+    justify-content: center;
+}
+.greetingBox h1 {
+    padding: 20px 40px;
+    border-radius: 15px;
+    background-color: wheat;
+    /* border: 1px solid; */
+    width: fit-content;
+    color: rgb(231, 69, 96)
+}
+
+.greetingBox h1 span{
+
+    color: black;
+}
+
+
+.img_box {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.img_box img {
+    padding: 5px;
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+
+}
+
+
+/* for digital clock only */
+span{
+    color: black !important;
+}
+
+/* for copyPaste */
+
+.copyPaste h1{
+    cursor: pointer;
+}
+.copyPaste h1:hover{
+    color:red;
+}
